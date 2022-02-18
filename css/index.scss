@@ -1,0 +1,77 @@
+body{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.title{
+    margin: 0;
+    padding: 0;
+    display: block;
+    font-size: 50px;
+    text-align: center;
+    box-sizing: border-box;
+}
+.no-1{
+    border: none;
+}
+// }
+// marquee{
+//     box-sizing: border-box;
+//     margin-left: 30%;
+//     margin-right: 30%;
+//     padding: 0;
+//     background-color: blue;
+//     color: white;
+//     transition: 3s ease-in-out;
+//     transition-timing-function: 2s;
+//     // transform-style: preserve-3d;
+//     animation: infinite;
+//     animation-iteration-count: infinite;
+//     animation-duration: initial;
+//     animation-direction: normal;
+//     animation-name: time;
+//     animation-play-state: running;
+//     animation-fill-mode: forwards;
+
+
+// }
+// @keyframes time {
+//     0%{background-color: transparent; border-radius: 3em;} 
+//     20%{background-color: yellow;}
+//     30%{background-color: transparent;}
+//     70%{background-color: brown; border-radius: 4em;}
+//     100%{background-color: rgb(113, 128, 0);}
+    
+// }
+table{
+
+    border: 1px solid grey;
+    margin: 0;
+    padding: 0;
+}
+th{
+    border: none;
+    border-left: 1px solid black;
+    border-bottom: 1px solid black;
+    text-align-last: center;
+    color: blue;
+
+}
+
+td{
+    border: none;
+    border-left: 1px solid black;
+    text-align-last: center;
+    border-bottom: 1px solid black;
+}
+.no{
+    padding-left: 50px;
+    border: none;
+    border-bottom: 1px solid black;
+}
+.one{
+    border: none;
+}
+.nob{
+    border-top: 1px solid black;
+}
